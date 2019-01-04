@@ -1,0 +1,35 @@
+/*
+Madison Hildreth
+Due Date
+Project name and description
+*/
+
+/* The universal selector */
+
+* {
+margin: 0;
+padding: 0;
+}
+
+/* Body attributes here */
+body 
+{background-color: orange; 
+width: 85%;
+margin: auto;}
+
+h1{ text-align:center; font-size:300%; border-bottom:Solid; padding:.5em; margin:.5em;color:white}
+
+h2{padding:.5em; margin:.5em;}
+
+main { font-size: 120%}
+
+/* size of pictures*/
+#top{float:left; border:dotted; margin:10px;}
+#one{float:left; width:220px; height:220px; margin:10px; border: 2px solid white}
+#two{float:left; width:220px; height:220px; margin:10px; border: 2px solid white}
+#three{float:left; width:220px; height:220px; margin:10px; border: 2px solid white}
+#four{float:left; width:220px; height:220px; margin:10px; border: 2px solid white }
+#five{float:left; width:220px; height:220px; margin:10px; border: 2px solid white}
+#bottom {float:right; width:220px; height:220px; margin:10px; border: 2px solid white}
+
+footer {clear: both; border-top: 2px solid white}
